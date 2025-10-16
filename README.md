@@ -1,3 +1,3 @@
 # Quera-code-problems
 
-these are some random code probblems i solve . this will be updated every weekend
+these are some random code problems that i solve . this will be updated every weekend
