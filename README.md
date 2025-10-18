@@ -4,7 +4,6 @@ A curated, growing collection of algorithmic problems I solved — mostly from Q
 I focus on clean, testable Python solutions using functions, type hints, and automated tests.
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
