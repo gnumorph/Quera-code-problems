@@ -1,4 +1,4 @@
-# 🧠 Quera Code Problems — Mikael Farahi
+# 🧠 Quera Code Problems — GNUMORPH(AKA mohsen farrahi)
 
 A curated, growing collection of algorithmic problems I solved — mostly from Quera, LeetCode and personal challenges.  
 I focus on clean, testable Python solutions using functions, type hints, and automated tests.
